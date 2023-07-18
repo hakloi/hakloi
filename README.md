@@ -1,16 +1,35 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/VbAFrrDVGAvZu/giphy-downsized-large.gif" width="180"/>
+</div>
 
-<!--
-**hakloi/hakloi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my GitHub! 
 
-Here are some ideas to get you started:
+<p>
+  <ul>
+    <li>💻 I’m currently a student at <a href="http://en.mpgu.su/about-mpgu/structure/institutes-and-faculties/economic-and-technological-college/">MPGU</a> at the Institute of International Education;</li>
+    <li>👩‍🏫 I apply my documents to <a href="https://www.london.ac.uk/courses/computer-science">Univercity of London</a> for a degree in Computer Science;</li>
+    <li>💡 I’m currently learning <a href="">Java</a> and <a href=""> Python </a> for my own projects!</li>
+    <li>🐵 How to reach me: <a href="https://t.me/hakloi">Telegram!</a></li>
+  </ul> 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### *Social Media*
+
+<div id="badges">
+  <a href="">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="https://www.youtube.com/channel/UCwTtj4HAs7O7Cy2CgCfetvw">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  
+  <a href="https://t.me/hakloi">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+
+  <a href="https://www.codewars.com/users/hakloi">
+    <img src="https://img.shields.io/badge/CodeWars-blue?style=for-the-badge&logo=codewars&logoColor=white" alt="CodeWars Badge"/>
+  </a>
+  
+</div>
