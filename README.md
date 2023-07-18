@@ -2,6 +2,8 @@
   <img src="https://media.giphy.com/media/VbAFrrDVGAvZu/giphy-downsized-large.gif" width="180"/>
 </div>
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=hakloi&style=flat-square&color=blue" alt=""></p>
+
 ### Welcome to my GitHub! 
 
 <p>
