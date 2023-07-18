@@ -13,6 +13,14 @@
   </ul> 
 </p>
 
+### *Skills*
+__Programming skills__
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakloi)](https://github.com/anuraghazra/github-readme-stats)
+
+### :fire: *My Stats* :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hakloi&theme=dark&background=000000)](https://git.io/streak-stats)
+
 ### *Social Media*
 
 <div id="badges">
