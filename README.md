@@ -8,7 +8,7 @@
 
 <p>
   <ul>
-    <li>🌸 I'm Violett Patrusheva, 22 y/o 🌸
+    <li>🌸 I'm Violett 🌸
     <li>💻 I’m currently a student at <a href="http://en.mpgu.su/about-mpgu/structure/institutes-and-faculties/economic-and-technological-college/">MPGU</a> at the Institute of International Education;</li>
     <li>👩‍🏫 I apply my documents to <a href="https://www.london.ac.uk/courses/computer-science">Univercity of London</a> for a degree in Computer Science;</li>
     <li>💡 I’m currently learning <a href="">Java</a> and <a href=""> Python </a> for my own projects!</li>
