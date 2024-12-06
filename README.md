@@ -10,8 +10,8 @@
   <ul>
     <li>🌸 I'm Violett 🌸
     <li>💻 I’m currently a student at <a href="http://en.mpgu.su/about-mpgu/structure/institutes-and-faculties/economic-and-technological-college/">MPGU</a> at the Institute of International Education;</li>
-    <li>👩‍🏫 I apply my documents to <a href="https://www.london.ac.uk/courses/computer-science">Univercity of London</a> for a degree in Computer Science;</li>
-    <li>💡 I’m currently learning <a href="">Java</a> and <a href=""> Python </a> for my own projects!</li>
+    <li>👩‍🏫 Simultaneously, I am pursuing a degree in Computer Science at <a href="https://www.london.ac.uk/courses/computer-science">the University of London</a>;</li>
+    <li>💡 I’m currently learning <a href="">C++</a> and <a href=""> Python </a> for my own projects!</li>
     <li>🐵 How to reach me: <a href="https://t.me/hakloi">Telegram!</a></li>
   </ul> 
 </p>
