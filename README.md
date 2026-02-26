@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/VbAFrrDVGAvZu/giphy-downsized-large.gif" width="180"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanYxY2ltb3gxeGl5YmJoY2Y3eDlvMm54eWE2b3pqcTZsbmkzdGo4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FspLvJQlQACXu/giphy.gif" width="180"/>
 </div>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=hakloi&style=flat-square&color=blue" alt=""></p>
@@ -15,15 +15,6 @@
     <li>🐵 How to reach me: <a href="https://t.me/hakloi">Telegram!</a></li>
   </ul> 
 </p>
-
-
-<!-- ### *Skills*
-__Programming skills__
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakloi)](https://github.com/anuraghazra/github-readme-stats)
--->
-### :fire: *My Stats* :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hakloi)](https://git.io/streak-stats)
 
 ### *Social Media*
 
