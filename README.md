@@ -16,6 +16,8 @@
   </ul> 
 </p>
 
+ <a href="https://leetcode.com/hakloi/"><img src="https://leetcard.jacoblin.cool/hakloi?theme=dark" width="400" /></a>
+
 ### *Social Media*
 
 <div id="badges">
